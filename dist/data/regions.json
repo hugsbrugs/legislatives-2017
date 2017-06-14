@@ -1,0 +1,2217 @@
+{
+    "44": {
+        "code_region": 44,
+        "libelle_region": "Grand-Est",
+        "inscrits": 3873127,
+        "abstentions": 2064080,
+        "p_abs_ins": 53.29,
+        "votants": 1809047,
+        "p_vot_ins": 46.71,
+        "blancs": 26444,
+        "p_blancs_ins": 0.68,
+        "p_blancs_vot": 1.46,
+        "nuls": 11077,
+        "p_nuls_ins": 0.29,
+        "p_nuls_vot": 0.61,
+        "exprimes": 1771526,
+        "p_exp_ins": 45.74,
+        "p_exp_vot": 97.93,
+        "candidats": [
+            {
+                "code_nuance": "EXG",
+                "voix": 13284,
+                "p_voix_ins": 0.34,
+                "p_voix_exp": 0.75,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "COM",
+                "voix": 25773,
+                "p_voix_ins": 0.67,
+                "p_voix_exp": 1.45,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FI",
+                "voix": 160586,
+                "p_voix_ins": 4.15,
+                "p_voix_exp": 9.06,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "SOC",
+                "voix": 100297,
+                "p_voix_ins": 2.59,
+                "p_voix_exp": 5.66,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "RDG",
+                "voix": 1687,
+                "p_voix_ins": 0.04,
+                "p_voix_exp": 0.1,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVG",
+                "voix": 9990,
+                "p_voix_ins": 0.26,
+                "p_voix_exp": 0.56,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "ECO",
+                "voix": 69473,
+                "p_voix_ins": 1.79,
+                "p_voix_exp": 3.92,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DIV",
+                "voix": 48996,
+                "p_voix_ins": 1.27,
+                "p_voix_exp": 2.77,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "REG",
+                "voix": 44257,
+                "p_voix_ins": 1.14,
+                "p_voix_exp": 2.5,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "REM",
+                "voix": 438034,
+                "p_voix_ins": 11.31,
+                "p_voix_exp": 24.73,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "MDM",
+                "voix": 54440,
+                "p_voix_ins": 1.41,
+                "p_voix_exp": 3.07,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "UDI",
+                "voix": 60208,
+                "p_voix_ins": 1.55,
+                "p_voix_exp": 3.4,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "LR",
+                "voix": 347201,
+                "p_voix_ins": 8.96,
+                "p_voix_exp": 19.6,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVD",
+                "voix": 71993,
+                "p_voix_ins": 1.86,
+                "p_voix_exp": 4.06,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DLF",
+                "voix": 22631,
+                "p_voix_ins": 0.58,
+                "p_voix_exp": 1.28,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FN",
+                "voix": 296270,
+                "p_voix_ins": 7.65,
+                "p_voix_exp": 16.72,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "EXD",
+                "voix": 6406,
+                "p_voix_ins": 0.17,
+                "p_voix_exp": 0.36,
+                "sieges": 0
+            }
+        ]
+    },
+    "75": {
+        "code_region": 75,
+        "libelle_region": "Nouvelle-Aquitaine",
+        "inscrits": 4326938,
+        "abstentions": 2040566,
+        "p_abs_ins": 47.16,
+        "votants": 2286372,
+        "p_vot_ins": 52.84,
+        "blancs": 37060,
+        "p_blancs_ins": 0.86,
+        "p_blancs_vot": 1.62,
+        "nuls": 18743,
+        "p_nuls_ins": 0.43,
+        "p_nuls_vot": 0.82,
+        "exprimes": 2230569,
+        "p_exp_ins": 51.55,
+        "p_exp_vot": 97.56,
+        "candidats": [
+            {
+                "code_nuance": "EXG",
+                "voix": 16343,
+                "p_voix_ins": 0.38,
+                "p_voix_exp": 0.73,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "COM",
+                "voix": 59848,
+                "p_voix_ins": 1.38,
+                "p_voix_exp": 2.68,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FI",
+                "voix": 275113,
+                "p_voix_ins": 6.36,
+                "p_voix_exp": 12.33,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "SOC",
+                "voix": 264948,
+                "p_voix_ins": 6.12,
+                "p_voix_exp": 11.88,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "RDG",
+                "voix": 1168,
+                "p_voix_ins": 0.03,
+                "p_voix_exp": 0.05,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVG",
+                "voix": 35261,
+                "p_voix_ins": 0.81,
+                "p_voix_exp": 1.58,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "ECO",
+                "voix": 89724,
+                "p_voix_ins": 2.07,
+                "p_voix_exp": 4.02,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DIV",
+                "voix": 44056,
+                "p_voix_ins": 1.02,
+                "p_voix_exp": 1.98,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "REG",
+                "voix": 17450,
+                "p_voix_ins": 0.4,
+                "p_voix_exp": 0.78,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "REM",
+                "voix": 627412,
+                "p_voix_ins": 14.5,
+                "p_voix_exp": 28.13,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "MDM",
+                "voix": 144930,
+                "p_voix_ins": 3.35,
+                "p_voix_exp": 6.5,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "UDI",
+                "voix": 61147,
+                "p_voix_ins": 1.41,
+                "p_voix_exp": 2.74,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "LR",
+                "voix": 270209,
+                "p_voix_ins": 6.24,
+                "p_voix_exp": 12.11,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVD",
+                "voix": 40778,
+                "p_voix_ins": 0.94,
+                "p_voix_exp": 1.83,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DLF",
+                "voix": 24890,
+                "p_voix_ins": 0.58,
+                "p_voix_exp": 1.12,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FN",
+                "voix": 253670,
+                "p_voix_ins": 5.86,
+                "p_voix_exp": 11.37,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "EXD",
+                "voix": 3622,
+                "p_voix_ins": 0.08,
+                "p_voix_exp": 0.16,
+                "sieges": 0
+            }
+        ]
+    },
+    "84": {
+        "code_region": 84,
+        "libelle_region": "Auvergne-Rhone-Alpes",
+        "inscrits": 5415882,
+        "abstentions": 2729624,
+        "p_abs_ins": 50.4,
+        "votants": 2686258,
+        "p_vot_ins": 49.6,
+        "blancs": 32448,
+        "p_blancs_ins": 0.6,
+        "p_blancs_vot": 1.21,
+        "nuls": 15020,
+        "p_nuls_ins": 0.28,
+        "p_nuls_vot": 0.56,
+        "exprimes": 2638790,
+        "p_exp_ins": 48.72,
+        "p_exp_vot": 98.23,
+        "candidats": [
+            {
+                "code_nuance": "EXG",
+                "voix": 18240,
+                "p_voix_ins": 0.34,
+                "p_voix_exp": 0.69,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "COM",
+                "voix": 83263,
+                "p_voix_ins": 1.54,
+                "p_voix_exp": 3.16,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FI",
+                "voix": 285205,
+                "p_voix_ins": 5.27,
+                "p_voix_exp": 10.81,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "SOC",
+                "voix": 147161,
+                "p_voix_ins": 2.72,
+                "p_voix_exp": 5.58,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "RDG",
+                "voix": 11662,
+                "p_voix_ins": 0.22,
+                "p_voix_exp": 0.44,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVG",
+                "voix": 24559,
+                "p_voix_ins": 0.45,
+                "p_voix_exp": 0.93,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "ECO",
+                "voix": 133715,
+                "p_voix_ins": 2.47,
+                "p_voix_exp": 5.07,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DIV",
+                "voix": 57477,
+                "p_voix_ins": 1.06,
+                "p_voix_exp": 2.18,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "REG",
+                "voix": 7184,
+                "p_voix_ins": 0.13,
+                "p_voix_exp": 0.27,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "REM",
+                "voix": 790431,
+                "p_voix_ins": 14.59,
+                "p_voix_exp": 29.95,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "MDM",
+                "voix": 127557,
+                "p_voix_ins": 2.36,
+                "p_voix_exp": 4.83,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "UDI",
+                "voix": 59191,
+                "p_voix_ins": 1.09,
+                "p_voix_exp": 2.24,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "LR",
+                "voix": 498447,
+                "p_voix_ins": 9.2,
+                "p_voix_exp": 18.89,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVD",
+                "voix": 37964,
+                "p_voix_ins": 0.7,
+                "p_voix_exp": 1.44,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DLF",
+                "voix": 31028,
+                "p_voix_ins": 0.57,
+                "p_voix_exp": 1.18,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FN",
+                "voix": 320537,
+                "p_voix_ins": 5.92,
+                "p_voix_exp": 12.15,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "EXD",
+                "voix": 5169,
+                "p_voix_ins": 0.1,
+                "p_voix_exp": 0.2,
+                "sieges": 0
+            }
+        ]
+    },
+    "27": {
+        "code_region": 27,
+        "libelle_region": "Bourgogne-Franche-Comte",
+        "inscrits": 2001414,
+        "abstentions": 981648,
+        "p_abs_ins": 49.05,
+        "votants": 1019766,
+        "p_vot_ins": 50.95,
+        "blancs": 16245,
+        "p_blancs_ins": 0.81,
+        "p_blancs_vot": 1.59,
+        "nuls": 7637,
+        "p_nuls_ins": 0.38,
+        "p_nuls_vot": 0.75,
+        "exprimes": 995884,
+        "p_exp_ins": 49.76,
+        "p_exp_vot": 97.66,
+        "candidats": [
+            {
+                "code_nuance": "EXG",
+                "voix": 8114,
+                "p_voix_ins": 0.41,
+                "p_voix_exp": 0.81,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "COM",
+                "voix": 23638,
+                "p_voix_ins": 1.18,
+                "p_voix_exp": 2.37,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FI",
+                "voix": 103388,
+                "p_voix_ins": 5.17,
+                "p_voix_exp": 10.38,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "SOC",
+                "voix": 63188,
+                "p_voix_ins": 3.16,
+                "p_voix_exp": 6.34,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "RDG",
+                "voix": 8007,
+                "p_voix_ins": 0.4,
+                "p_voix_exp": 0.8,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVG",
+                "voix": 4496,
+                "p_voix_ins": 0.22,
+                "p_voix_exp": 0.45,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "ECO",
+                "voix": 52884,
+                "p_voix_ins": 2.64,
+                "p_voix_exp": 5.31,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DIV",
+                "voix": 18179,
+                "p_voix_ins": 0.91,
+                "p_voix_exp": 1.83,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "REM",
+                "voix": 279531,
+                "p_voix_ins": 13.97,
+                "p_voix_exp": 28.07,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "MDM",
+                "voix": 24619,
+                "p_voix_ins": 1.23,
+                "p_voix_exp": 2.47,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "UDI",
+                "voix": 17032,
+                "p_voix_ins": 0.85,
+                "p_voix_exp": 1.71,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "LR",
+                "voix": 182860,
+                "p_voix_ins": 9.14,
+                "p_voix_exp": 18.36,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVD",
+                "voix": 39137,
+                "p_voix_ins": 1.96,
+                "p_voix_exp": 3.93,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DLF",
+                "voix": 13536,
+                "p_voix_ins": 0.68,
+                "p_voix_exp": 1.36,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FN",
+                "voix": 154747,
+                "p_voix_ins": 7.73,
+                "p_voix_exp": 15.54,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "EXD",
+                "voix": 2528,
+                "p_voix_ins": 0.13,
+                "p_voix_exp": 0.25,
+                "sieges": 0
+            }
+        ]
+    },
+    "53": {
+        "code_region": 53,
+        "libelle_region": "Bretagne",
+        "inscrits": 2453666,
+        "abstentions": 1087498,
+        "p_abs_ins": 44.32,
+        "votants": 1366168,
+        "p_vot_ins": 55.68,
+        "blancs": 19540,
+        "p_blancs_ins": 0.8,
+        "p_blancs_vot": 1.43,
+        "nuls": 8016,
+        "p_nuls_ins": 0.33,
+        "p_nuls_vot": 0.59,
+        "exprimes": 1338612,
+        "p_exp_ins": 54.56,
+        "p_exp_vot": 97.98,
+        "candidats": [
+            {
+                "code_nuance": "EXG",
+                "voix": 11748,
+                "p_voix_ins": 0.48,
+                "p_voix_exp": 0.88,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "COM",
+                "voix": 24958,
+                "p_voix_ins": 1.02,
+                "p_voix_exp": 1.86,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FI",
+                "voix": 155758,
+                "p_voix_ins": 6.35,
+                "p_voix_exp": 11.64,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "SOC",
+                "voix": 123274,
+                "p_voix_ins": 5.02,
+                "p_voix_exp": 9.21,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVG",
+                "voix": 22080,
+                "p_voix_ins": 0.9,
+                "p_voix_exp": 1.65,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "ECO",
+                "voix": 59551,
+                "p_voix_ins": 2.43,
+                "p_voix_exp": 4.45,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DIV",
+                "voix": 30961,
+                "p_voix_ins": 1.26,
+                "p_voix_exp": 2.31,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "REG",
+                "voix": 34525,
+                "p_voix_ins": 1.41,
+                "p_voix_exp": 2.58,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "REM",
+                "voix": 441899,
+                "p_voix_ins": 18.01,
+                "p_voix_exp": 33.01,
+                "sieges": 1
+            },
+            {
+                "code_nuance": "MDM",
+                "voix": 44678,
+                "p_voix_ins": 1.82,
+                "p_voix_exp": 3.34,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "UDI",
+                "voix": 58145,
+                "p_voix_ins": 2.37,
+                "p_voix_exp": 4.34,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "LR",
+                "voix": 185739,
+                "p_voix_ins": 7.57,
+                "p_voix_exp": 13.88,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVD",
+                "voix": 27630,
+                "p_voix_ins": 1.13,
+                "p_voix_exp": 2.06,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DLF",
+                "voix": 9864,
+                "p_voix_ins": 0.4,
+                "p_voix_exp": 0.74,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FN",
+                "voix": 105616,
+                "p_voix_ins": 4.3,
+                "p_voix_exp": 7.89,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "EXD",
+                "voix": 2186,
+                "p_voix_ins": 0.09,
+                "p_voix_exp": 0.16,
+                "sieges": 0
+            }
+        ]
+    },
+    "24": {
+        "code_region": 24,
+        "libelle_region": "Centre-Val-de-Loire",
+        "inscrits": 1827774,
+        "abstentions": 896738,
+        "p_abs_ins": 49.06,
+        "votants": 931036,
+        "p_vot_ins": 50.94,
+        "blancs": 15293,
+        "p_blancs_ins": 0.84,
+        "p_blancs_vot": 1.64,
+        "nuls": 6317,
+        "p_nuls_ins": 0.35,
+        "p_nuls_vot": 0.68,
+        "exprimes": 909426,
+        "p_exp_ins": 49.76,
+        "p_exp_vot": 97.68,
+        "candidats": [
+            {
+                "code_nuance": "EXG",
+                "voix": 9082,
+                "p_voix_ins": 0.5,
+                "p_voix_exp": 1,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "COM",
+                "voix": 28723,
+                "p_voix_ins": 1.57,
+                "p_voix_exp": 3.16,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FI",
+                "voix": 89860,
+                "p_voix_ins": 4.92,
+                "p_voix_exp": 9.88,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "SOC",
+                "voix": 76566,
+                "p_voix_ins": 4.19,
+                "p_voix_exp": 8.42,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "RDG",
+                "voix": 13164,
+                "p_voix_ins": 0.72,
+                "p_voix_exp": 1.45,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVG",
+                "voix": 3792,
+                "p_voix_ins": 0.21,
+                "p_voix_exp": 0.42,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "ECO",
+                "voix": 34948,
+                "p_voix_ins": 1.91,
+                "p_voix_exp": 3.84,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DIV",
+                "voix": 13256,
+                "p_voix_ins": 0.73,
+                "p_voix_exp": 1.46,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "REM",
+                "voix": 225364,
+                "p_voix_ins": 12.33,
+                "p_voix_exp": 24.78,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "MDM",
+                "voix": 51116,
+                "p_voix_ins": 2.8,
+                "p_voix_exp": 5.62,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "UDI",
+                "voix": 52662,
+                "p_voix_ins": 2.88,
+                "p_voix_exp": 5.79,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "LR",
+                "voix": 149647,
+                "p_voix_ins": 8.19,
+                "p_voix_exp": 16.46,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVD",
+                "voix": 21262,
+                "p_voix_ins": 1.16,
+                "p_voix_exp": 2.34,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DLF",
+                "voix": 14513,
+                "p_voix_ins": 0.79,
+                "p_voix_exp": 1.6,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FN",
+                "voix": 124901,
+                "p_voix_ins": 6.83,
+                "p_voix_exp": 13.73,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "EXD",
+                "voix": 570,
+                "p_voix_ins": 0.03,
+                "p_voix_exp": 0.06,
+                "sieges": 0
+            }
+        ]
+    },
+    "11": {
+        "code_region": 11,
+        "libelle_region": "Ile-de-France",
+        "inscrits": 7199469,
+        "abstentions": 3629296,
+        "p_abs_ins": 50.41,
+        "votants": 3570173,
+        "p_vot_ins": 49.59,
+        "blancs": 44598,
+        "p_blancs_ins": 0.62,
+        "p_blancs_vot": 1.25,
+        "nuls": 14572,
+        "p_nuls_ins": 0.2,
+        "p_nuls_vot": 0.41,
+        "exprimes": 3511003,
+        "p_exp_ins": 48.77,
+        "p_exp_vot": 98.34,
+        "candidats": [
+            {
+                "code_nuance": "EXG",
+                "voix": 26381,
+                "p_voix_ins": 0.37,
+                "p_voix_exp": 0.75,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "COM",
+                "voix": 100315,
+                "p_voix_ins": 1.39,
+                "p_voix_exp": 2.86,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FI",
+                "voix": 405735,
+                "p_voix_ins": 5.64,
+                "p_voix_exp": 11.56,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "SOC",
+                "voix": 254965,
+                "p_voix_ins": 3.54,
+                "p_voix_exp": 7.26,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "RDG",
+                "voix": 16070,
+                "p_voix_ins": 0.22,
+                "p_voix_exp": 0.46,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVG",
+                "voix": 38831,
+                "p_voix_ins": 0.54,
+                "p_voix_exp": 1.11,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "ECO",
+                "voix": 183916,
+                "p_voix_ins": 2.55,
+                "p_voix_exp": 5.24,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DIV",
+                "voix": 95943,
+                "p_voix_ins": 1.33,
+                "p_voix_exp": 2.73,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "REG",
+                "voix": 669,
+                "p_voix_ins": 0.01,
+                "p_voix_exp": 0.02,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "REM",
+                "voix": 1144541,
+                "p_voix_ins": 15.9,
+                "p_voix_exp": 32.6,
+                "sieges": 1
+            },
+            {
+                "code_nuance": "MDM",
+                "voix": 123283,
+                "p_voix_ins": 1.71,
+                "p_voix_exp": 3.51,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "UDI",
+                "voix": 92184,
+                "p_voix_ins": 1.28,
+                "p_voix_exp": 2.63,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "LR",
+                "voix": 593429,
+                "p_voix_ins": 8.24,
+                "p_voix_exp": 16.9,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVD",
+                "voix": 99234,
+                "p_voix_ins": 1.38,
+                "p_voix_exp": 2.83,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DLF",
+                "voix": 51681,
+                "p_voix_ins": 0.72,
+                "p_voix_exp": 1.47,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FN",
+                "voix": 276806,
+                "p_voix_ins": 3.84,
+                "p_voix_exp": 7.88,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "EXD",
+                "voix": 7020,
+                "p_voix_ins": 0.1,
+                "p_voix_exp": 0.2,
+                "sieges": 0
+            }
+        ]
+    },
+    "76": {
+        "code_region": 76,
+        "libelle_region": "Occitanie",
+        "inscrits": 4186520,
+        "abstentions": 2011621,
+        "p_abs_ins": 48.05,
+        "votants": 2174899,
+        "p_vot_ins": 51.95,
+        "blancs": 37356,
+        "p_blancs_ins": 0.89,
+        "p_blancs_vot": 1.72,
+        "nuls": 18120,
+        "p_nuls_ins": 0.43,
+        "p_nuls_vot": 0.83,
+        "exprimes": 2119423,
+        "p_exp_ins": 50.62,
+        "p_exp_vot": 97.45,
+        "candidats": [
+            {
+                "code_nuance": "EXG",
+                "voix": 14193,
+                "p_voix_ins": 0.34,
+                "p_voix_exp": 0.67,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "COM",
+                "voix": 58960,
+                "p_voix_ins": 1.41,
+                "p_voix_exp": 2.78,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FI",
+                "voix": 296099,
+                "p_voix_ins": 7.07,
+                "p_voix_exp": 13.97,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "SOC",
+                "voix": 202083,
+                "p_voix_ins": 4.83,
+                "p_voix_exp": 9.53,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "RDG",
+                "voix": 25144,
+                "p_voix_ins": 0.6,
+                "p_voix_exp": 1.19,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVG",
+                "voix": 24586,
+                "p_voix_ins": 0.59,
+                "p_voix_exp": 1.16,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "ECO",
+                "voix": 87547,
+                "p_voix_ins": 2.09,
+                "p_voix_exp": 4.13,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DIV",
+                "voix": 44714,
+                "p_voix_ins": 1.07,
+                "p_voix_exp": 2.11,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "REG",
+                "voix": 6245,
+                "p_voix_ins": 0.15,
+                "p_voix_exp": 0.29,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "REM",
+                "voix": 614910,
+                "p_voix_ins": 14.69,
+                "p_voix_exp": 29.01,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "MDM",
+                "voix": 46633,
+                "p_voix_ins": 1.11,
+                "p_voix_exp": 2.2,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "UDI",
+                "voix": 33577,
+                "p_voix_ins": 0.8,
+                "p_voix_exp": 1.58,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "LR",
+                "voix": 262254,
+                "p_voix_ins": 6.26,
+                "p_voix_exp": 12.37,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVD",
+                "voix": 34153,
+                "p_voix_ins": 0.82,
+                "p_voix_exp": 1.61,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DLF",
+                "voix": 18585,
+                "p_voix_ins": 0.44,
+                "p_voix_exp": 0.88,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FN",
+                "voix": 345435,
+                "p_voix_ins": 8.25,
+                "p_voix_exp": 16.3,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "EXD",
+                "voix": 4305,
+                "p_voix_ins": 0.1,
+                "p_voix_exp": 0.2,
+                "sieges": 0
+            }
+        ]
+    },
+    "32": {
+        "code_region": 32,
+        "libelle_region": "Hauts-de-France",
+        "inscrits": 4243009,
+        "abstentions": 2216671,
+        "p_abs_ins": 52.24,
+        "votants": 2026338,
+        "p_vot_ins": 47.76,
+        "blancs": 33334,
+        "p_blancs_ins": 0.79,
+        "p_blancs_vot": 1.65,
+        "nuls": 14298,
+        "p_nuls_ins": 0.34,
+        "p_nuls_vot": 0.71,
+        "exprimes": 1978706,
+        "p_exp_ins": 46.63,
+        "p_exp_vot": 97.65,
+        "candidats": [
+            {
+                "code_nuance": "EXG",
+                "voix": 21513,
+                "p_voix_ins": 0.51,
+                "p_voix_exp": 1.09,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "COM",
+                "voix": 80604,
+                "p_voix_ins": 1.9,
+                "p_voix_exp": 4.07,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FI",
+                "voix": 225807,
+                "p_voix_ins": 5.32,
+                "p_voix_exp": 11.41,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "SOC",
+                "voix": 129103,
+                "p_voix_ins": 3.04,
+                "p_voix_exp": 6.52,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "RDG",
+                "voix": 9858,
+                "p_voix_ins": 0.23,
+                "p_voix_exp": 0.5,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVG",
+                "voix": 32210,
+                "p_voix_ins": 0.76,
+                "p_voix_exp": 1.63,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "ECO",
+                "voix": 67532,
+                "p_voix_ins": 1.59,
+                "p_voix_exp": 3.41,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DIV",
+                "voix": 23953,
+                "p_voix_ins": 0.56,
+                "p_voix_exp": 1.21,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "REG",
+                "voix": 38,
+                "p_voix_ins": 0,
+                "p_voix_exp": 0,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "REM",
+                "voix": 461074,
+                "p_voix_ins": 10.87,
+                "p_voix_exp": 23.3,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "MDM",
+                "voix": 71260,
+                "p_voix_ins": 1.68,
+                "p_voix_exp": 3.6,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "UDI",
+                "voix": 90737,
+                "p_voix_ins": 2.14,
+                "p_voix_exp": 4.59,
+                "sieges": 1
+            },
+            {
+                "code_nuance": "LR",
+                "voix": 269169,
+                "p_voix_ins": 6.34,
+                "p_voix_exp": 13.6,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVD",
+                "voix": 34310,
+                "p_voix_ins": 0.81,
+                "p_voix_exp": 1.73,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DLF",
+                "voix": 20954,
+                "p_voix_ins": 0.49,
+                "p_voix_exp": 1.06,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FN",
+                "voix": 431726,
+                "p_voix_ins": 10.17,
+                "p_voix_exp": 21.82,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "EXD",
+                "voix": 8858,
+                "p_voix_ins": 0.21,
+                "p_voix_exp": 0.45,
+                "sieges": 0
+            }
+        ]
+    },
+    "28": {
+        "code_region": 28,
+        "libelle_region": "Normandie",
+        "inscrits": 2396938,
+        "abstentions": 1176852,
+        "p_abs_ins": 49.1,
+        "votants": 1220086,
+        "p_vot_ins": 50.9,
+        "blancs": 21692,
+        "p_blancs_ins": 0.9,
+        "p_blancs_vot": 1.78,
+        "nuls": 7186,
+        "p_nuls_ins": 0.3,
+        "p_nuls_vot": 0.59,
+        "exprimes": 1191208,
+        "p_exp_ins": 49.7,
+        "p_exp_vot": 97.63,
+        "candidats": [
+            {
+                "code_nuance": "EXG",
+                "voix": 12518,
+                "p_voix_ins": 0.52,
+                "p_voix_exp": 1.05,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "COM",
+                "voix": 54821,
+                "p_voix_ins": 2.29,
+                "p_voix_exp": 4.6,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FI",
+                "voix": 111739,
+                "p_voix_ins": 4.66,
+                "p_voix_exp": 9.38,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "SOC",
+                "voix": 111173,
+                "p_voix_ins": 4.64,
+                "p_voix_exp": 9.33,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "RDG",
+                "voix": 8647,
+                "p_voix_ins": 0.36,
+                "p_voix_exp": 0.73,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVG",
+                "voix": 18572,
+                "p_voix_ins": 0.77,
+                "p_voix_exp": 1.56,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "ECO",
+                "voix": 41449,
+                "p_voix_ins": 1.73,
+                "p_voix_exp": 3.48,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DIV",
+                "voix": 23393,
+                "p_voix_ins": 0.98,
+                "p_voix_exp": 1.96,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "REM",
+                "voix": 342650,
+                "p_voix_ins": 14.3,
+                "p_voix_exp": 28.76,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "MDM",
+                "voix": 24469,
+                "p_voix_ins": 1.02,
+                "p_voix_exp": 2.05,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "UDI",
+                "voix": 40285,
+                "p_voix_ins": 1.68,
+                "p_voix_exp": 3.38,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "LR",
+                "voix": 178184,
+                "p_voix_ins": 7.43,
+                "p_voix_exp": 14.96,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVD",
+                "voix": 21579,
+                "p_voix_ins": 0.9,
+                "p_voix_exp": 1.81,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DLF",
+                "voix": 12525,
+                "p_voix_ins": 0.52,
+                "p_voix_exp": 1.05,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FN",
+                "voix": 184532,
+                "p_voix_ins": 7.7,
+                "p_voix_exp": 15.49,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "EXD",
+                "voix": 4672,
+                "p_voix_ins": 0.19,
+                "p_voix_exp": 0.39,
+                "sieges": 0
+            }
+        ]
+    },
+    "52": {
+        "code_region": 52,
+        "libelle_region": "Pays-de-la-Loire",
+        "inscrits": 2706546,
+        "abstentions": 1274661,
+        "p_abs_ins": 47.1,
+        "votants": 1431885,
+        "p_vot_ins": 52.9,
+        "blancs": 23674,
+        "p_blancs_ins": 0.87,
+        "p_blancs_vot": 1.65,
+        "nuls": 9157,
+        "p_nuls_ins": 0.34,
+        "p_nuls_vot": 0.64,
+        "exprimes": 1399054,
+        "p_exp_ins": 51.69,
+        "p_exp_vot": 97.71,
+        "candidats": [
+            {
+                "code_nuance": "EXG",
+                "voix": 10720,
+                "p_voix_ins": 0.4,
+                "p_voix_exp": 0.77,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "COM",
+                "voix": 19613,
+                "p_voix_ins": 0.72,
+                "p_voix_exp": 1.4,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FI",
+                "voix": 160816,
+                "p_voix_ins": 5.94,
+                "p_voix_exp": 11.49,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "SOC",
+                "voix": 124086,
+                "p_voix_ins": 4.58,
+                "p_voix_exp": 8.87,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "RDG",
+                "voix": 3460,
+                "p_voix_ins": 0.13,
+                "p_voix_exp": 0.25,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVG",
+                "voix": 14184,
+                "p_voix_ins": 0.52,
+                "p_voix_exp": 1.01,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "ECO",
+                "voix": 62869,
+                "p_voix_ins": 2.32,
+                "p_voix_exp": 4.49,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DIV",
+                "voix": 20418,
+                "p_voix_ins": 0.75,
+                "p_voix_exp": 1.46,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "REG",
+                "voix": 7929,
+                "p_voix_ins": 0.29,
+                "p_voix_exp": 0.57,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "REM",
+                "voix": 400996,
+                "p_voix_ins": 14.82,
+                "p_voix_exp": 28.66,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "MDM",
+                "voix": 123631,
+                "p_voix_ins": 4.57,
+                "p_voix_exp": 8.84,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "UDI",
+                "voix": 58424,
+                "p_voix_ins": 2.16,
+                "p_voix_exp": 4.18,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "LR",
+                "voix": 205629,
+                "p_voix_ins": 7.6,
+                "p_voix_exp": 14.7,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVD",
+                "voix": 37637,
+                "p_voix_ins": 1.39,
+                "p_voix_exp": 2.69,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DLF",
+                "voix": 19726,
+                "p_voix_ins": 0.73,
+                "p_voix_exp": 1.41,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FN",
+                "voix": 125644,
+                "p_voix_ins": 4.64,
+                "p_voix_exp": 8.98,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "EXD",
+                "voix": 3272,
+                "p_voix_ins": 0.12,
+                "p_voix_exp": 0.23,
+                "sieges": 0
+            }
+        ]
+    },
+    "93": {
+        "code_region": 93,
+        "libelle_region": "Provence-Alpes-Cote-d-Azur",
+        "inscrits": 3566093,
+        "abstentions": 1888272,
+        "p_abs_ins": 52.95,
+        "votants": 1677821,
+        "p_vot_ins": 47.05,
+        "blancs": 24051,
+        "p_blancs_ins": 0.67,
+        "p_blancs_vot": 1.43,
+        "nuls": 9187,
+        "p_nuls_ins": 0.26,
+        "p_nuls_vot": 0.55,
+        "exprimes": 1644583,
+        "p_exp_ins": 46.12,
+        "p_exp_vot": 98.02,
+        "candidats": [
+            {
+                "code_nuance": "EXG",
+                "voix": 8798,
+                "p_voix_ins": 0.25,
+                "p_voix_exp": 0.53,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "COM",
+                "voix": 48093,
+                "p_voix_ins": 1.35,
+                "p_voix_exp": 2.92,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FI",
+                "voix": 180321,
+                "p_voix_ins": 5.06,
+                "p_voix_exp": 10.96,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "SOC",
+                "voix": 37943,
+                "p_voix_ins": 1.06,
+                "p_voix_exp": 2.31,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "RDG",
+                "voix": 5161,
+                "p_voix_ins": 0.14,
+                "p_voix_exp": 0.31,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVG",
+                "voix": 6375,
+                "p_voix_ins": 0.18,
+                "p_voix_exp": 0.39,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "ECO",
+                "voix": 65148,
+                "p_voix_ins": 1.83,
+                "p_voix_exp": 3.96,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DIV",
+                "voix": 39451,
+                "p_voix_ins": 1.11,
+                "p_voix_exp": 2.4,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "REG",
+                "voix": 1522,
+                "p_voix_ins": 0.04,
+                "p_voix_exp": 0.09,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "REM",
+                "voix": 445311,
+                "p_voix_ins": 12.49,
+                "p_voix_exp": 27.08,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "MDM",
+                "voix": 63879,
+                "p_voix_ins": 1.79,
+                "p_voix_exp": 3.88,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "UDI",
+                "voix": 29856,
+                "p_voix_ins": 0.84,
+                "p_voix_exp": 1.82,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "LR",
+                "voix": 294233,
+                "p_voix_ins": 8.25,
+                "p_voix_exp": 17.89,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVD",
+                "voix": 37381,
+                "p_voix_ins": 1.05,
+                "p_voix_exp": 2.27,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DLF",
+                "voix": 25443,
+                "p_voix_ins": 0.71,
+                "p_voix_exp": 1.55,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FN",
+                "voix": 339883,
+                "p_voix_ins": 9.53,
+                "p_voix_exp": 20.67,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "EXD",
+                "voix": 15785,
+                "p_voix_ins": 0.44,
+                "p_voix_exp": 0.96,
+                "sieges": 0
+            }
+        ]
+    },
+    "94": {
+        "code_region": 94,
+        "libelle_region": "Corse",
+        "inscrits": 233563,
+        "abstentions": 118330,
+        "p_abs_ins": 50.66,
+        "votants": 115233,
+        "p_vot_ins": 49.34,
+        "blancs": 1639,
+        "p_blancs_ins": 0.7,
+        "p_blancs_vot": 1.42,
+        "nuls": 1090,
+        "p_nuls_ins": 0.47,
+        "p_nuls_vot": 0.95,
+        "exprimes": 112504,
+        "p_exp_ins": 48.17,
+        "p_exp_vot": 97.63,
+        "candidats": [
+            {
+                "code_nuance": "EXG",
+                "voix": 483,
+                "p_voix_ins": 0.21,
+                "p_voix_exp": 0.43,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "COM",
+                "voix": 4439,
+                "p_voix_ins": 1.9,
+                "p_voix_exp": 3.95,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FI",
+                "voix": 5064,
+                "p_voix_ins": 2.17,
+                "p_voix_exp": 4.5,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVG",
+                "voix": 2710,
+                "p_voix_ins": 1.16,
+                "p_voix_exp": 2.41,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DIV",
+                "voix": 1503,
+                "p_voix_ins": 0.64,
+                "p_voix_exp": 1.34,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "REG",
+                "voix": 33925,
+                "p_voix_ins": 14.52,
+                "p_voix_exp": 30.15,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "REM",
+                "voix": 25523,
+                "p_voix_ins": 10.93,
+                "p_voix_exp": 22.69,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "LR",
+                "voix": 28350,
+                "p_voix_ins": 12.14,
+                "p_voix_exp": 25.2,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVD",
+                "voix": 4700,
+                "p_voix_ins": 2.01,
+                "p_voix_exp": 4.18,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FN",
+                "voix": 2582,
+                "p_voix_ins": 1.11,
+                "p_voix_exp": 2.3,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "EXD",
+                "voix": 3225,
+                "p_voix_ins": 1.38,
+                "p_voix_exp": 2.87,
+                "sieges": 0
+            }
+        ]
+    },
+    "1": {
+        "code_region": 1,
+        "libelle_region": "Guadeloupe",
+        "inscrits": 316217,
+        "abstentions": 235241,
+        "p_abs_ins": 74.39,
+        "votants": 80976,
+        "p_vot_ins": 25.61,
+        "blancs": 2966,
+        "p_blancs_ins": 0.94,
+        "p_blancs_vot": 3.66,
+        "nuls": 3412,
+        "p_nuls_ins": 1.08,
+        "p_nuls_vot": 4.21,
+        "exprimes": 74598,
+        "p_exp_ins": 23.59,
+        "p_exp_vot": 92.12,
+        "candidats": [
+            {
+                "code_nuance": "EXG",
+                "voix": 912,
+                "p_voix_ins": 0.29,
+                "p_voix_exp": 1.22,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "COM",
+                "voix": 1611,
+                "p_voix_ins": 0.51,
+                "p_voix_exp": 2.16,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FI",
+                "voix": 3626,
+                "p_voix_ins": 1.15,
+                "p_voix_exp": 4.86,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "SOC",
+                "voix": 9686,
+                "p_voix_ins": 3.06,
+                "p_voix_exp": 12.98,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVG",
+                "voix": 24671,
+                "p_voix_ins": 7.8,
+                "p_voix_exp": 33.07,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "ECO",
+                "voix": 3380,
+                "p_voix_ins": 1.07,
+                "p_voix_exp": 4.53,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DIV",
+                "voix": 5954,
+                "p_voix_ins": 1.88,
+                "p_voix_exp": 7.98,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "REG",
+                "voix": 61,
+                "p_voix_ins": 0.02,
+                "p_voix_exp": 0.08,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "REM",
+                "voix": 12023,
+                "p_voix_ins": 3.8,
+                "p_voix_exp": 16.12,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "UDI",
+                "voix": 327,
+                "p_voix_ins": 0.1,
+                "p_voix_exp": 0.44,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "LR",
+                "voix": 5058,
+                "p_voix_ins": 1.6,
+                "p_voix_exp": 6.78,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVD",
+                "voix": 6159,
+                "p_voix_ins": 1.95,
+                "p_voix_exp": 8.26,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FN",
+                "voix": 1130,
+                "p_voix_ins": 0.36,
+                "p_voix_exp": 1.51,
+                "sieges": 0
+            }
+        ]
+    },
+    "2": {
+        "code_region": 2,
+        "libelle_region": "Martinique",
+        "inscrits": 310233,
+        "abstentions": 229328,
+        "p_abs_ins": 73.92,
+        "votants": 80905,
+        "p_vot_ins": 26.08,
+        "blancs": 2672,
+        "p_blancs_ins": 0.86,
+        "p_blancs_vot": 3.3,
+        "nuls": 2065,
+        "p_nuls_ins": 0.67,
+        "p_nuls_vot": 2.55,
+        "exprimes": 76168,
+        "p_exp_ins": 24.55,
+        "p_exp_vot": 94.14,
+        "candidats": [
+            {
+                "code_nuance": "EXG",
+                "voix": 1248,
+                "p_voix_ins": 0.4,
+                "p_voix_exp": 1.64,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FI",
+                "voix": 2933,
+                "p_voix_ins": 0.95,
+                "p_voix_exp": 3.85,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "SOC",
+                "voix": 1102,
+                "p_voix_ins": 0.36,
+                "p_voix_exp": 1.45,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVG",
+                "voix": 33372,
+                "p_voix_ins": 10.76,
+                "p_voix_exp": 43.81,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "ECO",
+                "voix": 1218,
+                "p_voix_ins": 0.39,
+                "p_voix_exp": 1.6,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DIV",
+                "voix": 5142,
+                "p_voix_ins": 1.66,
+                "p_voix_exp": 6.75,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "REG",
+                "voix": 15084,
+                "p_voix_ins": 4.86,
+                "p_voix_exp": 19.8,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "REM",
+                "voix": 2665,
+                "p_voix_ins": 0.86,
+                "p_voix_exp": 3.5,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "MDM",
+                "voix": 985,
+                "p_voix_ins": 0.32,
+                "p_voix_exp": 1.29,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "UDI",
+                "voix": 1042,
+                "p_voix_ins": 0.34,
+                "p_voix_exp": 1.37,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "LR",
+                "voix": 9753,
+                "p_voix_ins": 3.14,
+                "p_voix_exp": 12.8,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVD",
+                "voix": 708,
+                "p_voix_ins": 0.23,
+                "p_voix_exp": 0.93,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FN",
+                "voix": 916,
+                "p_voix_ins": 0.3,
+                "p_voix_exp": 1.2,
+                "sieges": 0
+            }
+        ]
+    },
+    "3": {
+        "code_region": 3,
+        "libelle_region": "Guyane",
+        "inscrits": 93075,
+        "abstentions": 69991,
+        "p_abs_ins": 75.2,
+        "votants": 23084,
+        "p_vot_ins": 24.8,
+        "blancs": 722,
+        "p_blancs_ins": 0.78,
+        "p_blancs_vot": 3.13,
+        "nuls": 420,
+        "p_nuls_ins": 0.45,
+        "p_nuls_vot": 1.82,
+        "exprimes": 21942,
+        "p_exp_ins": 23.57,
+        "p_exp_vot": 95.05,
+        "candidats": [
+            {
+                "code_nuance": "FI",
+                "voix": 1323,
+                "p_voix_ins": 1.42,
+                "p_voix_exp": 6.03,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVG",
+                "voix": 9748,
+                "p_voix_ins": 10.47,
+                "p_voix_exp": 44.43,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DIV",
+                "voix": 176,
+                "p_voix_ins": 0.19,
+                "p_voix_exp": 0.8,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "REG",
+                "voix": 2356,
+                "p_voix_ins": 2.53,
+                "p_voix_exp": 10.74,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "REM",
+                "voix": 7167,
+                "p_voix_ins": 7.7,
+                "p_voix_exp": 32.66,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "LR",
+                "voix": 429,
+                "p_voix_ins": 0.46,
+                "p_voix_exp": 1.96,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVD",
+                "voix": 743,
+                "p_voix_ins": 0.8,
+                "p_voix_exp": 3.39,
+                "sieges": 0
+            }
+        ]
+    },
+    "4": {
+        "code_region": 4,
+        "libelle_region": "La-Reunion",
+        "inscrits": 640367,
+        "abstentions": 418255,
+        "p_abs_ins": 65.31,
+        "votants": 222112,
+        "p_vot_ins": 34.69,
+        "blancs": 9315,
+        "p_blancs_ins": 1.45,
+        "p_blancs_vot": 4.19,
+        "nuls": 9675,
+        "p_nuls_ins": 1.51,
+        "p_nuls_vot": 4.36,
+        "exprimes": 203122,
+        "p_exp_ins": 31.72,
+        "p_exp_vot": 91.45,
+        "candidats": [
+            {
+                "code_nuance": "EXG",
+                "voix": 1810,
+                "p_voix_ins": 0.28,
+                "p_voix_exp": 0.89,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FI",
+                "voix": 13871,
+                "p_voix_ins": 2.17,
+                "p_voix_exp": 6.83,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "SOC",
+                "voix": 19266,
+                "p_voix_ins": 3.01,
+                "p_voix_exp": 9.48,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVG",
+                "voix": 40067,
+                "p_voix_ins": 6.26,
+                "p_voix_exp": 19.73,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "ECO",
+                "voix": 5135,
+                "p_voix_ins": 0.8,
+                "p_voix_exp": 2.53,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DIV",
+                "voix": 7468,
+                "p_voix_ins": 1.17,
+                "p_voix_exp": 3.68,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "REM",
+                "voix": 18170,
+                "p_voix_ins": 2.84,
+                "p_voix_exp": 8.95,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "MDM",
+                "voix": 14146,
+                "p_voix_ins": 2.21,
+                "p_voix_exp": 6.96,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "LR",
+                "voix": 47564,
+                "p_voix_ins": 7.43,
+                "p_voix_exp": 23.42,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVD",
+                "voix": 24497,
+                "p_voix_ins": 3.83,
+                "p_voix_exp": 12.06,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FN",
+                "voix": 11128,
+                "p_voix_ins": 1.74,
+                "p_voix_exp": 5.48,
+                "sieges": 0
+            }
+        ]
+    },
+    "6": {
+        "code_region": 6,
+        "libelle_region": "Mayotte",
+        "inscrits": 82800,
+        "abstentions": 46018,
+        "p_abs_ins": 55.58,
+        "votants": 36782,
+        "p_vot_ins": 44.42,
+        "blancs": 1303,
+        "p_blancs_ins": 1.57,
+        "p_blancs_vot": 3.54,
+        "nuls": 2507,
+        "p_nuls_ins": 3.03,
+        "p_nuls_vot": 6.82,
+        "exprimes": 32972,
+        "p_exp_ins": 39.82,
+        "p_exp_vot": 89.64,
+        "candidats": [
+            {
+                "code_nuance": "FI",
+                "voix": 679,
+                "p_voix_ins": 0.82,
+                "p_voix_exp": 2.06,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "SOC",
+                "voix": 4531,
+                "p_voix_ins": 5.47,
+                "p_voix_exp": 13.74,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "RDG",
+                "voix": 980,
+                "p_voix_ins": 1.18,
+                "p_voix_exp": 2.97,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVG",
+                "voix": 4250,
+                "p_voix_ins": 5.13,
+                "p_voix_exp": 12.89,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DIV",
+                "voix": 5697,
+                "p_voix_ins": 6.88,
+                "p_voix_exp": 17.28,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "MDM",
+                "voix": 2244,
+                "p_voix_ins": 2.71,
+                "p_voix_exp": 6.81,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "UDI",
+                "voix": 1784,
+                "p_voix_ins": 2.15,
+                "p_voix_exp": 5.41,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "LR",
+                "voix": 9284,
+                "p_voix_ins": 11.21,
+                "p_voix_exp": 28.16,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "DVD",
+                "voix": 2884,
+                "p_voix_ins": 3.48,
+                "p_voix_exp": 8.75,
+                "sieges": 0
+            },
+            {
+                "code_nuance": "FN",
+                "voix": 639,
+                "p_voix_ins": 0.77,
+                "p_voix_exp": 1.94,
+                "sieges": 0
+            }
+        ]
+    }
+}

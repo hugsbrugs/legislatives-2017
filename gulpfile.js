@@ -145,9 +145,9 @@ gulp.task('copy-env-prod', function() {
 gulp.task('copy-folders', function() {
     var dir1 = gulp.src(source + 'data/**/*').pipe(gulp.dest(output + 'data/'));
     var dir2 = gulp.src(source + 'img/**/*.svg').pipe(gulp.dest(output + 'img/'));
-    var dir3 = gulp.src(source + 'sitemaps/**/*').pipe(gulp.dest(output + 'sitemaps/'));
+    // var dir3 = gulp.src(source + 'sitemaps/**/*').pipe(gulp.dest(output + 'sitemaps/'));
     //return dir2;
-    return merge(dir1, dir2, dir3);
+    return merge(dir1, dir2);
 });
 
 
@@ -180,7 +180,7 @@ gulp.task('build', gulpsync.sync([
 //    'usemin-path', 
     'copy-files', 
     'copy-env-prod',
-//    'copy-folders', 
+   'copy-folders', 
     'img'
 ]));
 
