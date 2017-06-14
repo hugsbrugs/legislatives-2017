@@ -4,8 +4,8 @@ window.__env to display it. */
 	window.__env = window.__env || {};
 
 	//
-	window.__env.defaultPageTitle = 'Guide de survie Politique';
-	window.__env.defaultPageDescription = 'Guide des élus français : chaque citoyen trouvera tous ses élus : du maire au président de la république.';
+	window.__env.defaultPageTitle = 'Résultats élections législatives 2017';
+	window.__env.defaultPageDescription = 'Résultats élections législatives 2017 : chaque citoyen trouvera tous ses élus : du maire au président de la république.';
 	
 	// API url
 	window.__env.api = 'https://api.politiques.lol';

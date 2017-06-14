@@ -1,0 +1,139 @@
+{
+    "code_pays": 22,
+    "libelle_pays": "France",
+    "inscrits": 47571220,
+    "abstentions": 24401005,
+    "p_abs_ins": 51.29,
+    "votants": 23170215,
+    "p_vot_ins": 48.71,
+    "blancs": 354201,
+    "p_blancs_ins": 0.75,
+    "p_blancs_vot": 1.53,
+    "nuls": 161454,
+    "p_nuls_ins": 0.34,
+    "p_nuls_vot": 0.7,
+    "exprimes": 22654560,
+    "p_exp_ins": 47.62,
+    "p_exp_vot": 97.77,
+    "candidats": [
+        {
+            "code_nuance": "EXG",
+            "voix": 175387,
+            "p_voix_ins": 0.37,
+            "p_voix_exp": 0.77,
+            "sieges": 0
+        },
+        {
+            "code_nuance": "COM",
+            "voix": 615500,
+            "p_voix_ins": 1.29,
+            "p_voix_exp": 2.72,
+            "sieges": 0
+        },
+        {
+            "code_nuance": "FI",
+            "voix": 2497657,
+            "p_voix_ins": 5.25,
+            "p_voix_exp": 11.02,
+            "sieges": 0
+        },
+        {
+            "code_nuance": "SOC",
+            "voix": 1685736,
+            "p_voix_ins": 3.54,
+            "p_voix_exp": 4.44,
+            "sieges": 0
+        },
+        {
+            "code_nuance": "RDG",
+            "voix": 106287,
+            "p_voix_ins": 0.22,
+            "p_voix_exp": 0.47,
+            "sieges": 0
+        },
+        {
+            "code_nuance": "DVG",
+            "voix": 362328,
+            "p_voix_ins": 0.76,
+            "p_voix_exp": 1.6,
+            "sieges": 1
+        },
+        {
+            "code_nuance": "ECO",
+            "voix": 973766,
+            "p_voix_ins": 2.05,
+            "p_voix_exp": 4.3,
+            "sieges": 0
+        },
+        {
+            "code_nuance": "DIV",
+            "voix": 500458,
+            "p_voix_ins": 1.05,
+            "p_voix_exp": 2.21,
+            "sieges": 0
+        },
+        {
+            "code_nuance": "REG",
+            "voix": 204078,
+            "p_voix_ins": 0.43,
+            "p_voix_exp": 0.9,
+            "sieges": 0
+        },
+        {
+            "code_nuance": "REM",
+            "voix": 6390804,
+            "p_voix_ins": 13.43,
+            "p_voix_exp": 28.21,
+            "sieges": 2
+        },
+        {
+            "code_nuance": "MDM",
+            "voix": 932229,
+            "p_voix_ins": 1.96,
+            "p_voix_exp": 4.11,
+            "sieges": 0
+        },
+        {
+            "code_nuance": "UDI",
+            "voix": 687219,
+            "p_voix_ins": 1.44,
+            "p_voix_exp": 3.03,
+            "sieges": 1
+        },
+        {
+            "code_nuance": "LR",
+            "voix": 3573367,
+            "p_voix_ins": 7.51,
+            "p_voix_exp": 15.77,
+            "sieges": 0
+        },
+        {
+            "code_nuance": "DVD",
+            "voix": 625395,
+            "p_voix_ins": 1.31,
+            "p_voix_exp": 2.76,
+            "sieges": 0
+        },
+        {
+            "code_nuance": "DLF",
+            "voix": 265437,
+            "p_voix_ins": 0.56,
+            "p_voix_exp": 1.17,
+            "sieges": 0
+        },
+        {
+            "code_nuance": "FN",
+            "voix": 2990593,
+            "p_voix_ins": 6.29,
+            "p_voix_exp": 13.2,
+            "sieges": 0
+        },
+        {
+            "code_nuance": "EXD",
+            "voix": 68319,
+            "p_voix_ins": 0.14,
+            "p_voix_exp": 0.3,
+            "sieges": 0
+        }
+    ]
+}
