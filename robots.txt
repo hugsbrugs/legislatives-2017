@@ -1,0 +1,47 @@
+User-agent: *
+
+#Sitemap: https://politiques.lol/sitemap-index.xml
+
+# Dissalow
+
+########## START KILLDUPLICATE ##########
+# exclude nerdydata.com
+User-agent: NerdyBot
+Disallow: /
+# exclude Majestic SEO
+User-agent: MJ12bot
+Disallow: /
+# exclude Open Site Explorer
+User-agent: rogerbot
+Disallow: /
+# exclude Ahrefs.com
+user-agent: AhrefsBot
+Disallow: /
+# exclude domaintools.com
+User-agent: SurveyBot
+Disallow: /
+# exclude Linkody
+User-agent: Linkody
+Disallow: /
+# exclude
+User-agent: Updownerbot
+Disallow: /
+# exclude
+User-agent: archive-fr.com
+Disallow: /
+# exclude
+User-agent: BLEXBot
+Disallow: /
+# exclude
+User-agent: webmeupbot
+Disallow: /
+# exclude
+User-agent: spbot
+Disallow: /
+# exclude
+User-agent: NerdyBot
+Disallow: /
+# exclude
+User-agent: URLmetriques
+Disallow: /
+########## END KILLDUPLICATE ##########
