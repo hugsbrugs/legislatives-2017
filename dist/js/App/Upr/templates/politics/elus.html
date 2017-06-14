@@ -1,0 +1,19 @@
+<style type="text/css">.container-fluid{
+	height:100%;
+	min-height: 100%;
+	/*min-height: 100vh;*/
+	/*display:table;*/
+	width: 100%;
+	/*padding: 0;*/
+}
+ .row-fluid {
+	height: 100%; 
+	/*display:table-cell; */
+	display: none;
+	vertical-align: middle;
+	margin-right: 0px;
+	margin-left: 0px;
+}
+.row.active{
+	display: block;
+}</style><div class="container-fluid" style="font-size: 1.3em"><div class="row row-fluid active" id="top-0"><div class="centering text-center"><h1 class="text-center margin-top-lg margin-bottom-lg">Les élus de la République Française</h1><h2 class="text-center margin-bottom-lg">... ou le syndrome du disque rayé ...</h2><p class="text-center margin-bottom-lg"><img id="svg" src="/img/icons/my-icons-collection/fruits/cock.svg" style="width:50%" ng-click="next()" class="cursor"></p><p class="text-center"><button type="button" class="btn btn-lg btn-primary" ng-click="next()">Ecouter le disque</button></p></div></div><span ng-repeat="(key, elu) in elus"><elu-institution></elu-institution></span></div>

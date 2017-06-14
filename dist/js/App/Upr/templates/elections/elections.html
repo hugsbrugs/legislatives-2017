@@ -1,0 +1,24 @@
+<style type="text/css">.container-fluid{
+	height:100%;
+	min-height: 100%;
+	/*min-height: 100vh;*/
+	display:table;
+	width: 100%;
+	/*padding: 0;*/
+}
+ .row-fluid {
+	height: 100%; 
+	/*display:table-cell; */
+	display: none;
+	vertical-align: middle;
+	margin-right: 0px;
+	margin-left: 0px;
+}
+.row.active{
+	/*display: table-cell;*/
+	display: block;
+}
+.centering {
+	float:none;
+	margin:0 auto;
+}</style><div class="container-fluid" style="font-size: 1.3em"><div class="row row-fluid active" id="top-0"><div class="centering text-center"><h1 class="text-center margin-top-lg margin-bottom-lg">Toutes les élections françaises</h1><div class="col-xs-8 col-xs-offset-2 col-sm-6 col-sm-offset-3" style="font-style: italic;margin-bottom:50px"><p class="text-justify">La différence entre une démocratie et une dictature, c'est qu'en démocratie tu votes avant d'obéir aux ordres, dans une dictature, tu perds pas ton temps à voter<br><br>Contes de la folie ordinaire <span class="pull-right">[ Charles Bukowski ]</span></p></div><div class="col-xs-8 col-xs-offset-2 col-sm-6 col-sm-offset-3 col-lg-4 col-lg-offset-4"><p class="text-center" style="margin-bottom:50px"><img src="/img/icons/my-icons-collection/svg/vote.svg" ng-click="next()" class="cursor"></p><p class="text-center margin-top-lg margin-bottom-lg"><button type="button" class="btn btn-lg btn-primary" ng-click="next()">Découvrir les élections</button></p></div></div></div><span ng-repeat="(key, election) in elections"><election></election></span></div>

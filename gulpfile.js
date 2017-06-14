@@ -110,9 +110,9 @@ gulp.task('template-general', function() {
         .pipe(gulp.dest(output + 'js/App/templates/'));
 });
 gulp.task('template-app', function() {
-    return gulp.src([source + 'js/App/FrenchPoliticMap/templates/**/*.html'])
+    return gulp.src([source + 'js/App/Upr/templates/**/*.html'])
         .pipe(htmlmin({collapseWhitespace: true, removeComments: true}))
-        .pipe(gulp.dest(output + 'js/App/FrenchPoliticMap/templates/'));
+        .pipe(gulp.dest(output + 'js/App/Upr/templates/'));
 });
 gulp.task('templates', gulpsync.sync(['template-general', 'template-app']));
 
