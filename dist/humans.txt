@@ -1,0 +1,13 @@
+/* TEAM */
+Your title: Hugo Maugey Webmaster 
+Site: https://hugo.maugey.fr
+Location: Narbonne, France.
+
+/* THANKS */
+Name: http://upr.fr
+
+/* SITE */
+Last update: 2017/06/14 
+Standards: HTML5, CSS3, REST
+Components: Bootstap, Angularjs, Plenty of angularjs modules (see source ;) )
+Software: Ubuntu, Sublime Text
