@@ -1,6 +1,6 @@
 {
     "1": {
-        "code_departement": 1,
+        "code_departement": "1",
         "libelle_departement": "Ain",
         "inscrits": 416607,
         "abstentions": 214253,
@@ -118,7 +118,7 @@
         ]
     },
     "2": {
-        "code_departement": 2,
+        "code_departement": "2",
         "libelle_departement": "Aisne",
         "inscrits": 375764,
         "abstentions": 197738,
@@ -243,7 +243,7 @@
         ]
     },
     "3": {
-        "code_departement": 3,
+        "code_departement": "3",
         "libelle_departement": "Allier",
         "inscrits": 253415,
         "abstentions": 123181,
@@ -361,7 +361,7 @@
         ]
     },
     "4": {
-        "code_departement": 4,
+        "code_departement": "4",
         "libelle_departement": "Alpes-de-Haute-Provence",
         "inscrits": 126469,
         "abstentions": 59636,
@@ -472,7 +472,7 @@
         ]
     },
     "5": {
-        "code_departement": 5,
+        "code_departement": "5",
         "libelle_departement": "Hautes-Alpes",
         "inscrits": 109914,
         "abstentions": 51221,
@@ -569,7 +569,7 @@
         ]
     },
     "6": {
-        "code_departement": 6,
+        "code_departement": "6",
         "libelle_departement": "Alpes-Maritimes",
         "inscrits": 761428,
         "abstentions": 403988,
@@ -694,7 +694,7 @@
         ]
     },
     "7": {
-        "code_departement": 7,
+        "code_departement": "7",
         "libelle_departement": "Ard\u00e8che",
         "inscrits": 249259,
         "abstentions": 115754,
@@ -805,7 +805,7 @@
         ]
     },
     "8": {
-        "code_departement": 8,
+        "code_departement": "8",
         "libelle_departement": "Ardennes",
         "inscrits": 194302,
         "abstentions": 102359,
@@ -888,7 +888,7 @@
         ]
     },
     "9": {
-        "code_departement": 9,
+        "code_departement": "9",
         "libelle_departement": "Ari\u00e8ge",
         "inscrits": 117431,
         "abstentions": 53553,
@@ -985,7 +985,7 @@
         ]
     },
     "10": {
-        "code_departement": 10,
+        "code_departement": "10",
         "libelle_departement": "Aube",
         "inscrits": 203890,
         "abstentions": 100871,
@@ -1096,7 +1096,7 @@
         ]
     },
     "11": {
-        "code_departement": 11,
+        "code_departement": "11",
         "libelle_departement": "Aude",
         "inscrits": 272661,
         "abstentions": 127415,
@@ -1214,7 +1214,7 @@
         ]
     },
     "12": {
-        "code_departement": 12,
+        "code_departement": "12",
         "libelle_departement": "Aveyron",
         "inscrits": 218024,
         "abstentions": 90756,
@@ -1311,7 +1311,7 @@
         ]
     },
     "13": {
-        "code_departement": 13,
+        "code_departement": "13",
         "libelle_departement": "Bouches-du-Rh\u00f4ne",
         "inscrits": 1370875,
         "abstentions": 738326,
@@ -1450,7 +1450,7 @@
         ]
     },
     "14": {
-        "code_departement": 14,
+        "code_departement": "14",
         "libelle_departement": "Calvados",
         "inscrits": 500944,
         "abstentions": 241131,
@@ -1582,7 +1582,7 @@
         ]
     },
     "15": {
-        "code_departement": 15,
+        "code_departement": "15",
         "libelle_departement": "Cantal",
         "inscrits": 117298,
         "abstentions": 52628,
@@ -1686,7 +1686,7 @@
         ]
     },
     "16": {
-        "code_departement": 16,
+        "code_departement": "16",
         "libelle_departement": "Charente",
         "inscrits": 259862,
         "abstentions": 129069,
@@ -1804,7 +1804,7 @@
         ]
     },
     "17": {
-        "code_departement": 17,
+        "code_departement": "17",
         "libelle_departement": "Charente-Maritime",
         "inscrits": 491038,
         "abstentions": 243861,
@@ -1936,7 +1936,7 @@
         ]
     },
     "18": {
-        "code_departement": 18,
+        "code_departement": "18",
         "libelle_departement": "Cher",
         "inscrits": 228850,
         "abstentions": 115523,
@@ -2040,7 +2040,7 @@
         ]
     },
     "19": {
-        "code_departement": 19,
+        "code_departement": "19",
         "libelle_departement": "Corr\u00e8ze",
         "inscrits": 185184,
         "abstentions": 79174,
@@ -2143,8 +2143,8 @@
             }
         ]
     },
-    "\"2A\"": {
-        "code_departement": 0,
+    "2A": {
+        "code_departement": "2A",
         "libelle_departement": "Corse-du-Sud",
         "inscrits": 108772,
         "abstentions": 57163,
@@ -2219,8 +2219,8 @@
             }
         ]
     },
-    "\"2B\"": {
-        "code_departement": 0,
+    "2B": {
+        "code_departement": "2B",
         "libelle_departement": "Haute-Corse",
         "inscrits": 124791,
         "abstentions": 61167,
@@ -2317,7 +2317,7 @@
         ]
     },
     "21": {
-        "code_departement": 21,
+        "code_departement": "21",
         "libelle_departement": "C\u00f4te-d'Or",
         "inscrits": 360887,
         "abstentions": 173212,
@@ -2428,7 +2428,7 @@
         ]
     },
     "22": {
-        "code_departement": 22,
+        "code_departement": "22",
         "libelle_departement": "C\u00f4tes-d'Armor",
         "inscrits": 455842,
         "abstentions": 191793,
@@ -2546,7 +2546,7 @@
         ]
     },
     "23": {
-        "code_departement": 23,
+        "code_departement": "23",
         "libelle_departement": "Creuse",
         "inscrits": 92991,
         "abstentions": 41723,
@@ -2650,7 +2650,7 @@
         ]
     },
     "24": {
-        "code_departement": 24,
+        "code_departement": "24",
         "libelle_departement": "Dordogne",
         "inscrits": 313688,
         "abstentions": 138279,
@@ -2782,7 +2782,7 @@
         ]
     },
     "25": {
-        "code_departement": 25,
+        "code_departement": "25",
         "libelle_departement": "Doubs",
         "inscrits": 368412,
         "abstentions": 183872,
@@ -2879,7 +2879,7 @@
         ]
     },
     "26": {
-        "code_departement": 26,
+        "code_departement": "26",
         "libelle_departement": "Dr\u00f4me",
         "inscrits": 369504,
         "abstentions": 183251,
@@ -3004,7 +3004,7 @@
         ]
     },
     "27": {
-        "code_departement": 27,
+        "code_departement": "27",
         "libelle_departement": "Eure",
         "inscrits": 427715,
         "abstentions": 216191,
@@ -3129,7 +3129,7 @@
         ]
     },
     "28": {
-        "code_departement": 28,
+        "code_departement": "28",
         "libelle_departement": "Eure-et-Loir",
         "inscrits": 301390,
         "abstentions": 151293,
@@ -3254,7 +3254,7 @@
         ]
     },
     "29": {
-        "code_departement": 29,
+        "code_departement": "29",
         "libelle_departement": "Finist\u00e8re",
         "inscrits": 689419,
         "abstentions": 304709,
@@ -3379,7 +3379,7 @@
         ]
     },
     "30": {
-        "code_departement": 30,
+        "code_departement": "30",
         "libelle_departement": "Gard",
         "inscrits": 537622,
         "abstentions": 278909,
@@ -3504,7 +3504,7 @@
         ]
     },
     "31": {
-        "code_departement": 31,
+        "code_departement": "31",
         "libelle_departement": "Haute-Garonne",
         "inscrits": 899741,
         "abstentions": 426925,
@@ -3636,7 +3636,7 @@
         ]
     },
     "32": {
-        "code_departement": 32,
+        "code_departement": "32",
         "libelle_departement": "Gers",
         "inscrits": 145005,
         "abstentions": 61621,
@@ -3747,7 +3747,7 @@
         ]
     },
     "33": {
-        "code_departement": 33,
+        "code_departement": "33",
         "libelle_departement": "Gironde",
         "inscrits": 1086592,
         "abstentions": 533597,
@@ -3872,7 +3872,7 @@
         ]
     },
     "34": {
-        "code_departement": 34,
+        "code_departement": "34",
         "libelle_departement": "H\u00e9rault",
         "inscrits": 800475,
         "abstentions": 413187,
@@ -3997,7 +3997,7 @@
         ]
     },
     "35": {
-        "code_departement": 35,
+        "code_departement": "35",
         "libelle_departement": "Ille-et-Vilaine",
         "inscrits": 731377,
         "abstentions": 329092,
@@ -4129,7 +4129,7 @@
         ]
     },
     "36": {
-        "code_departement": 36,
+        "code_departement": "36",
         "libelle_departement": "Indre",
         "inscrits": 170593,
         "abstentions": 82139,
@@ -4233,7 +4233,7 @@
         ]
     },
     "37": {
-        "code_departement": 37,
+        "code_departement": "37",
         "libelle_departement": "Indre-et-Loire",
         "inscrits": 428788,
         "abstentions": 208442,
@@ -4351,7 +4351,7 @@
         ]
     },
     "38": {
-        "code_departement": 38,
+        "code_departement": "38",
         "libelle_departement": "Is\u00e8re",
         "inscrits": 856815,
         "abstentions": 436681,
@@ -4483,7 +4483,7 @@
         ]
     },
     "39": {
-        "code_departement": 39,
+        "code_departement": "39",
         "libelle_departement": "Jura",
         "inscrits": 190162,
         "abstentions": 89211,
@@ -4594,7 +4594,7 @@
         ]
     },
     "40": {
-        "code_departement": 40,
+        "code_departement": "40",
         "libelle_departement": "Landes",
         "inscrits": 310207,
         "abstentions": 138746,
@@ -4712,7 +4712,7 @@
         ]
     },
     "41": {
-        "code_departement": 41,
+        "code_departement": "41",
         "libelle_departement": "Loir-et-Cher",
         "inscrits": 245296,
         "abstentions": 115022,
@@ -4823,7 +4823,7 @@
         ]
     },
     "42": {
-        "code_departement": 42,
+        "code_departement": "42",
         "libelle_departement": "Loire",
         "inscrits": 511196,
         "abstentions": 267229,
@@ -4948,7 +4948,7 @@
         ]
     },
     "43": {
-        "code_departement": 43,
+        "code_departement": "43",
         "libelle_departement": "Haute-Loire",
         "inscrits": 177249,
         "abstentions": 81092,
@@ -5059,7 +5059,7 @@
         ]
     },
     "44": {
-        "code_departement": 44,
+        "code_departement": "44",
         "libelle_departement": "Loire-Atlantique",
         "inscrits": 994938,
         "abstentions": 455261,
@@ -5198,7 +5198,7 @@
         ]
     },
     "45": {
-        "code_departement": 45,
+        "code_departement": "45",
         "libelle_departement": "Loiret",
         "inscrits": 452857,
         "abstentions": 224319,
@@ -5309,7 +5309,7 @@
         ]
     },
     "46": {
-        "code_departement": 46,
+        "code_departement": "46",
         "libelle_departement": "Lot",
         "inscrits": 136169,
         "abstentions": 56615,
@@ -5413,7 +5413,7 @@
         ]
     },
     "47": {
-        "code_departement": 47,
+        "code_departement": "47",
         "libelle_departement": "Lot-et-Garonne",
         "inscrits": 240851,
         "abstentions": 111796,
@@ -5517,7 +5517,7 @@
         ]
     },
     "48": {
-        "code_departement": 48,
+        "code_departement": "48",
         "libelle_departement": "Loz\u00e8re",
         "inscrits": 59443,
         "abstentions": 24139,
@@ -5614,7 +5614,7 @@
         ]
     },
     "49": {
-        "code_departement": 49,
+        "code_departement": "49",
         "libelle_departement": "Maine-et-Loire",
         "inscrits": 568987,
         "abstentions": 271345,
@@ -5739,7 +5739,7 @@
         ]
     },
     "50": {
-        "code_departement": 50,
+        "code_departement": "50",
         "libelle_departement": "Manche",
         "inscrits": 378987,
         "abstentions": 180391,
@@ -5843,7 +5843,7 @@
         ]
     },
     "51": {
-        "code_departement": 51,
+        "code_departement": "51",
         "libelle_departement": "Marne",
         "inscrits": 381603,
         "abstentions": 200758,
@@ -5954,7 +5954,7 @@
         ]
     },
     "52": {
-        "code_departement": 52,
+        "code_departement": "52",
         "libelle_departement": "Haute-Marne",
         "inscrits": 134009,
         "abstentions": 67259,
@@ -6051,7 +6051,7 @@
         ]
     },
     "53": {
-        "code_departement": 53,
+        "code_departement": "53",
         "libelle_departement": "Mayenne",
         "inscrits": 222477,
         "abstentions": 103975,
@@ -6176,7 +6176,7 @@
         ]
     },
     "54": {
-        "code_departement": 54,
+        "code_departement": "54",
         "libelle_departement": "Meurthe-et-Moselle",
         "inscrits": 494521,
         "abstentions": 261928,
@@ -6308,7 +6308,7 @@
         ]
     },
     "55": {
-        "code_departement": 55,
+        "code_departement": "55",
         "libelle_departement": "Meuse",
         "inscrits": 137569,
         "abstentions": 69480,
@@ -6426,7 +6426,7 @@
         ]
     },
     "56": {
-        "code_departement": 56,
+        "code_departement": "56",
         "libelle_departement": "Morbihan",
         "inscrits": 577028,
         "abstentions": 261904,
@@ -6551,7 +6551,7 @@
         ]
     },
     "57": {
-        "code_departement": 57,
+        "code_departement": "57",
         "libelle_departement": "Moselle",
         "inscrits": 751206,
         "abstentions": 431534,
@@ -6683,7 +6683,7 @@
         ]
     },
     "58": {
-        "code_departement": 58,
+        "code_departement": "58",
         "libelle_departement": "Ni\u00e8vre",
         "inscrits": 159297,
         "abstentions": 78565,
@@ -6801,7 +6801,7 @@
         ]
     },
     "59": {
-        "code_departement": 59,
+        "code_departement": "59",
         "libelle_departement": "Nord",
         "inscrits": 1805218,
         "abstentions": 975570,
@@ -6940,7 +6940,7 @@
         ]
     },
     "60": {
-        "code_departement": 60,
+        "code_departement": "60",
         "libelle_departement": "Oise",
         "inscrits": 562375,
         "abstentions": 292791,
@@ -7058,7 +7058,7 @@
         ]
     },
     "61": {
-        "code_departement": 61,
+        "code_departement": "61",
         "libelle_departement": "Orne",
         "inscrits": 208636,
         "abstentions": 99258,
@@ -7169,7 +7169,7 @@
         ]
     },
     "62": {
-        "code_departement": 62,
+        "code_departement": "62",
         "libelle_departement": "Pas-de-Calais",
         "inscrits": 1090595,
         "abstentions": 550370,
@@ -7301,7 +7301,7 @@
         ]
     },
     "63": {
-        "code_departement": 63,
+        "code_departement": "63",
         "libelle_departement": "Puy-de-D\u00f4me",
         "inscrits": 461113,
         "abstentions": 221531,
@@ -7426,7 +7426,7 @@
         ]
     },
     "64": {
-        "code_departement": 64,
+        "code_departement": "64",
         "libelle_departement": "Pyr\u00e9n\u00e9es-Atlantiques",
         "inscrits": 502206,
         "abstentions": 226596,
@@ -7551,7 +7551,7 @@
         ]
     },
     "65": {
-        "code_departement": 65,
+        "code_departement": "65",
         "libelle_departement": "Hautes-Pyr\u00e9n\u00e9es",
         "inscrits": 177659,
         "abstentions": 83422,
@@ -7662,7 +7662,7 @@
         ]
     },
     "66": {
-        "code_departement": 66,
+        "code_departement": "66",
         "libelle_departement": "Pyr\u00e9n\u00e9es-Orientales",
         "inscrits": 347761,
         "abstentions": 176931,
@@ -7780,7 +7780,7 @@
         ]
     },
     "67": {
-        "code_departement": 67,
+        "code_departement": "67",
         "libelle_departement": "Bas-Rhin",
         "inscrits": 766815,
         "abstentions": 404568,
@@ -7919,7 +7919,7 @@
         ]
     },
     "68": {
-        "code_departement": 68,
+        "code_departement": "68",
         "libelle_departement": "Haut-Rhin",
         "inscrits": 526648,
         "abstentions": 285744,
@@ -8051,7 +8051,7 @@
         ]
     },
     "69": {
-        "code_departement": 69,
+        "code_departement": "69",
         "libelle_departement": "Rh\u00f4ne",
         "inscrits": 1156132,
         "abstentions": 583754,
@@ -8190,7 +8190,7 @@
         ]
     },
     "70": {
-        "code_departement": 70,
+        "code_departement": "70",
         "libelle_departement": "Haute-Sa\u00f4ne",
         "inscrits": 179208,
         "abstentions": 83555,
@@ -8294,7 +8294,7 @@
         ]
     },
     "71": {
-        "code_departement": 71,
+        "code_departement": "71",
         "libelle_departement": "Sa\u00f4ne-et-Loire",
         "inscrits": 406286,
         "abstentions": 205372,
@@ -8412,7 +8412,7 @@
         ]
     },
     "72": {
-        "code_departement": 72,
+        "code_departement": "72",
         "libelle_departement": "Sarthe",
         "inscrits": 405616,
         "abstentions": 203182,
@@ -8530,7 +8530,7 @@
         ]
     },
     "73": {
-        "code_departement": 73,
+        "code_departement": "73",
         "libelle_departement": "Savoie",
         "inscrits": 310455,
         "abstentions": 162841,
@@ -8648,7 +8648,7 @@
         ]
     },
     "74": {
-        "code_departement": 74,
+        "code_departement": "74",
         "libelle_departement": "Haute-Savoie",
         "inscrits": 536839,
         "abstentions": 287429,
@@ -8766,7 +8766,7 @@
         ]
     },
     "75": {
-        "code_departement": 75,
+        "code_departement": "75",
         "libelle_departement": "Paris",
         "inscrits": 1302186,
         "abstentions": 562186,
@@ -8905,7 +8905,7 @@
         ]
     },
     "76": {
-        "code_departement": 76,
+        "code_departement": "76",
         "libelle_departement": "Seine-Maritime",
         "inscrits": 880656,
         "abstentions": 439881,
@@ -9030,7 +9030,7 @@
         ]
     },
     "77": {
-        "code_departement": 77,
+        "code_departement": "77",
         "libelle_departement": "Seine-et-Marne",
         "inscrits": 881559,
         "abstentions": 484632,
@@ -9169,7 +9169,7 @@
         ]
     },
     "78": {
-        "code_departement": 78,
+        "code_departement": "78",
         "libelle_departement": "Yvelines",
         "inscrits": 951394,
         "abstentions": 451113,
@@ -9301,7 +9301,7 @@
         ]
     },
     "79": {
-        "code_departement": 79,
+        "code_departement": "79",
         "libelle_departement": "Deux-S\u00e8vres",
         "inscrits": 272427,
         "abstentions": 131756,
@@ -9412,7 +9412,7 @@
         ]
     },
     "80": {
-        "code_departement": 80,
+        "code_departement": "80",
         "libelle_departement": "Somme",
         "inscrits": 409057,
         "abstentions": 200202,
@@ -9523,7 +9523,7 @@
         ]
     },
     "81": {
-        "code_departement": 81,
+        "code_departement": "81",
         "libelle_departement": "Tarn",
         "inscrits": 291226,
         "abstentions": 131109,
@@ -9620,7 +9620,7 @@
         ]
     },
     "82": {
-        "code_departement": 82,
+        "code_departement": "82",
         "libelle_departement": "Tarn-et-Garonne",
         "inscrits": 183303,
         "abstentions": 87039,
@@ -9738,7 +9738,7 @@
         ]
     },
     "83": {
-        "code_departement": 83,
+        "code_departement": "83",
         "libelle_departement": "Var",
         "inscrits": 794851,
         "abstentions": 427415,
@@ -9870,7 +9870,7 @@
         ]
     },
     "84": {
-        "code_departement": 84,
+        "code_departement": "84",
         "libelle_departement": "Vaucluse",
         "inscrits": 402556,
         "abstentions": 207686,
@@ -9995,7 +9995,7 @@
         ]
     },
     "85": {
-        "code_departement": 85,
+        "code_departement": "85",
         "libelle_departement": "Vend\u00e9e",
         "inscrits": 514528,
         "abstentions": 240898,
@@ -10106,7 +10106,7 @@
         ]
     },
     "86": {
-        "code_departement": 86,
+        "code_departement": "86",
         "libelle_departement": "Vienne",
         "inscrits": 306815,
         "abstentions": 149880,
@@ -10231,7 +10231,7 @@
         ]
     },
     "87": {
-        "code_departement": 87,
+        "code_departement": "87",
         "libelle_departement": "Haute-Vienne",
         "inscrits": 265077,
         "abstentions": 116089,
@@ -10342,7 +10342,7 @@
         ]
     },
     "88": {
-        "code_departement": 88,
+        "code_departement": "88",
         "libelle_departement": "Vosges",
         "inscrits": 282564,
         "abstentions": 139579,
@@ -10453,7 +10453,7 @@
         ]
     },
     "89": {
-        "code_departement": 89,
+        "code_departement": "89",
         "libelle_departement": "Yonne",
         "inscrits": 241784,
         "abstentions": 119854,
@@ -10578,7 +10578,7 @@
         ]
     },
     "90": {
-        "code_departement": 90,
+        "code_departement": "90",
         "libelle_departement": "Territoire de Belfort",
         "inscrits": 95378,
         "abstentions": 48007,
@@ -10689,7 +10689,7 @@
         ]
     },
     "91": {
-        "code_departement": 91,
+        "code_departement": "91",
         "libelle_departement": "Essonne",
         "inscrits": 794882,
         "abstentions": 400979,
@@ -10807,7 +10807,7 @@
         ]
     },
     "92": {
-        "code_departement": 92,
+        "code_departement": "92",
         "libelle_departement": "Hauts-de-Seine",
         "inscrits": 983045,
         "abstentions": 448172,
@@ -10939,7 +10939,7 @@
         ]
     },
     "93": {
-        "code_departement": 93,
+        "code_departement": "93",
         "libelle_departement": "Seine-Saint-Denis",
         "inscrits": 768560,
         "abstentions": 466490,
@@ -11057,7 +11057,7 @@
         ]
     },
     "94": {
-        "code_departement": 94,
+        "code_departement": "94",
         "libelle_departement": "Val-de-Marne",
         "inscrits": 786540,
         "abstentions": 405553,
@@ -11196,7 +11196,7 @@
         ]
     },
     "95": {
-        "code_departement": 95,
+        "code_departement": "95",
         "libelle_departement": "Val-d'Oise",
         "inscrits": 731303,
         "abstentions": 410171,
@@ -11327,8 +11327,8 @@
             }
         ]
     },
-    "\"ZA\"": {
-        "code_departement": 0,
+    "971": {
+        "code_departement": "971",
         "libelle_departement": "Guadeloupe",
         "inscrits": 316217,
         "abstentions": 235241,
@@ -11438,8 +11438,8 @@
             }
         ]
     },
-    "\"ZB\"": {
-        "code_departement": 0,
+    "ZB": {
+        "code_departement": "ZB",
         "libelle_departement": "Martinique",
         "inscrits": 310233,
         "abstentions": 229328,
@@ -11549,8 +11549,8 @@
             }
         ]
     },
-    "\"ZC\"": {
-        "code_departement": 0,
+    "ZC": {
+        "code_departement": "ZC",
         "libelle_departement": "Guyane",
         "inscrits": 93075,
         "abstentions": 69991,
@@ -11618,8 +11618,8 @@
             }
         ]
     },
-    "\"ZD\"": {
-        "code_departement": 0,
+    "ZD": {
+        "code_departement": "ZD",
         "libelle_departement": "La R\u00e9union",
         "inscrits": 640367,
         "abstentions": 418255,
@@ -11715,8 +11715,8 @@
             }
         ]
     },
-    "\"ZM\"": {
-        "code_departement": 0,
+    "ZM": {
+        "code_departement": "ZM",
         "libelle_departement": "Mayotte",
         "inscrits": 82800,
         "abstentions": 46018,
@@ -11805,8 +11805,8 @@
             }
         ]
     },
-    "\"ZN\"": {
-        "code_departement": 0,
+    "ZN": {
+        "code_departement": "ZN",
         "libelle_departement": "Nouvelle-Cal\u00e9donie",
         "inscrits": 189784,
         "abstentions": 122001,
@@ -11874,8 +11874,8 @@
             }
         ]
     },
-    "\"ZP\"": {
-        "code_departement": 0,
+    "ZP": {
+        "code_departement": "ZP",
         "libelle_departement": "Polyn\u00e9sie fran\u00e7aise",
         "inscrits": 204116,
         "abstentions": 118245,
@@ -11957,8 +11957,8 @@
             }
         ]
     },
-    "\"ZS\"": {
-        "code_departement": 0,
+    "ZS": {
+        "code_departement": "ZS",
         "libelle_departement": "Saint-Pierre-et-Miquelon",
         "inscrits": 4974,
         "abstentions": 2017,
@@ -12012,8 +12012,8 @@
             }
         ]
     },
-    "\"ZW\"": {
-        "code_departement": 0,
+    "ZW": {
+        "code_departement": "ZW",
         "libelle_departement": "Wallis et Futuna",
         "inscrits": 8480,
         "abstentions": 1588,
@@ -12046,8 +12046,8 @@
             }
         ]
     },
-    "\"ZX\"": {
-        "code_departement": 0,
+    "ZX": {
+        "code_departement": "ZX",
         "libelle_departement": "Saint-Martin\/Saint-Barth\u00e9lemy",
         "inscrits": 25391,
         "abstentions": 19292,
@@ -12115,8 +12115,8 @@
             }
         ]
     },
-    "\"ZZ\"": {
-        "code_departement": 0,
+    "ZZ": {
+        "code_departement": "ZZ",
         "libelle_departement": "Fran\u00e7ais \u00e9tablis hors de France",
         "inscrits": 1264845,
         "abstentions": 1023173,
