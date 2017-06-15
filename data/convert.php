@@ -13,6 +13,10 @@ ini_set('max_execution_time', 0);
 convert_canton();
 // convert_circonscription();
 
+// carte geotype canton martinique/guyane
+
+
+
 function convert_circonscription()
 {
 	$regions = [];
@@ -91,9 +95,21 @@ function convert_canton()
 		error_log($key);
 		$fields = explode(";", $line);
 
+		$code_departement = str_replace('"', '', $fields[0]);
+		if($code_departement=='ZA') // Guadeloupe
+			$code_departement = '971';
+		if($code_departement=='ZB') // Martinique
+			$code_departement = '972';
+		if($code_departement=='ZC') // Guyane
+			$code_departement = '973';
+		if($code_departement=='ZD') // La Réunion
+			$code_departement = '974';
+		if($code_departement=='ZM') // Mayotte
+			$code_departement = '976';
+
 		// $regions[str_replace('"', '', $fields[0]).$fields[2]] = [
 		$region = [
-			'code_departement' => str_replace('"', '', $fields[0]), // $code_region
+			'code_departement' => $code_departement, // $code_region
 			'libelle_departement' => str_replace('"', '', $fields[1]), // $libelle_region
 			'code_canton' => format_code_canton($fields[2]), // $code_region
 			'libelle_canton' => str_replace('"', '', $fields[3]), // $libelle_region
@@ -167,8 +183,12 @@ function convert_departement()
 		error_log($key);
 		$fields = explode(";", $line);
 
-		$regions[$fields[0]] = [
-			'code_departement' => (int)$fields[0], // $code_region
+		$code_departement = str_replace('"', '', $fields[0]);
+		if($code_departement=='ZA')
+			$code_departement = '971';
+
+		$regions[$code_departement] = [
+			'code_departement' => $code_departement, // $code_region
 			'libelle_departement' => str_replace('"', '', $fields[1]), // $libelle_region
 			'inscrits' => (int)$fields[2], // $inscrits
 			'abstentions' => (int)$fields[3], // $abstentions
@@ -188,7 +208,6 @@ function convert_departement()
 		];
 
 		$end = count($fields);
-		error_log('end : ' . $end);
 
 		$i = 16;
 		while($i<$end)
@@ -197,7 +216,7 @@ function convert_departement()
 			$code_nuance = str_replace('"', '', $fields[$i]);
 			if(strlen($code_nuance)>0)
 			{
-				$regions[$fields[0]]['candidats'][] = [
+				$regions[$code_departement]['candidats'][] = [
 					'code_nuance' => $code_nuance,
 					'voix' => (int)$fields[$i+1],
 					'p_voix_ins' => floatval(str_replace(',', '.', $fields[$i+2])),
@@ -207,11 +226,12 @@ function convert_departement()
 			}
 			$i = $i + 5;
 		}
-		error_log('end line');
 	}
 
 	$filename = __DIR__ . '/departements.json';
 	file_put_contents($filename, json_encode($regions, JSON_PRETTY_PRINT));
+
+	error_log('Nombre de départements : ' . count($regions));
 }
 
 function convert_region()
