@@ -10,7 +10,7 @@ ini_set('max_execution_time', 0);
 
 // convert_region();
 // convert_departement();
-// convert_canton();
+convert_canton();
 // convert_circonscription();
 
 function convert_circonscription()
@@ -91,10 +91,11 @@ function convert_canton()
 		error_log($key);
 		$fields = explode(";", $line);
 
-		$regions[$fields[0]] = [
-			'code_departement' => (int)$fields[0], // $code_region
+		// $regions[str_replace('"', '', $fields[0]).$fields[2]] = [
+		$region = [
+			'code_departement' => str_replace('"', '', $fields[0]), // $code_region
 			'libelle_departement' => str_replace('"', '', $fields[1]), // $libelle_region
-			'code_canton' => (int)$fields[2], // $code_region
+			'code_canton' => format_code_canton($fields[2]), // $code_region
 			'libelle_canton' => str_replace('"', '', $fields[3]), // $libelle_region
 			'inscrits' => (int)$fields[4], // $inscrits
 			'abstentions' => (int)$fields[5], // $abstentions
@@ -114,16 +115,15 @@ function convert_canton()
 		];
 
 		$end = count($fields);
-		error_log('end : ' . $end);
 
 		$i = 18;
 		while($i<$end)
 		{
-			error_log('nuance ' . $i);
 			$code_nuance = str_replace('"', '', $fields[$i]);
 			if(strlen($code_nuance)>0)
 			{
-				$regions[$fields[0]]['candidats'][] = [
+				// $regions[$fields[0]]['candidats'][] = [
+				$region['candidats'][] = [
 					'code_nuance' => $code_nuance,
 					'voix' => (int)$fields[$i+1],
 					'p_voix_ins' => floatval(str_replace(',', '.', $fields[$i+2])),
@@ -132,11 +132,27 @@ function convert_canton()
 			}
 			$i = $i + 4;
 		}
-		error_log('end line');
+
+		$regions[] = $region;
+
+		if($region['code_departement']=='38' && $region['code_canton']=='03')
+		{
+			error_log('found 3803');
+		}
 	}
 
 	$filename = __DIR__ . '/cantons.json';
 	file_put_contents($filename, json_encode($regions, JSON_PRETTY_PRINT));
+
+	error_log('Nombre de cantons : ' . count($regions));
+}
+
+function format_code_canton($code)
+{
+	if(strlen($code)==1)
+		return '0'.$code;
+	else
+		return $code;
 }
 
 function convert_departement()
