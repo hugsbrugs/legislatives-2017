@@ -1,0 +1,134 @@
+{
+	"EXG":{
+		"code":"EXG",
+		"nom":"Extrême gauche",
+		"img":"",
+		"color":"#BB0000"
+	},
+	"PG":{
+		"code":"PG",
+		"nom":"Parti de gauche",
+		"img":"",
+		"color":""
+	},
+	"COM":{
+		"code":"COM",
+		"nom":"Communiste",
+		"img":"",
+		"color":"#DD0000"
+	},
+	"SOC":{
+		"code":"SOC",
+		"nom":"Socialiste",
+		"img":"",
+		"color":"#FF8080"
+	},
+	"RDG":{
+		"code":"RDG",
+		"nom":"Radical de Gauche",
+		"img":"",
+		"color":"#FFD1DC"
+	},
+	"DVG":{
+		"code":"DVG",
+		"nom":"Divers gauche",
+		"img":"",
+		"color":"#FFC0C0"
+	},
+	"VEC":{
+		"code":"VEC",
+		"nom":"Europe Écologie Les Verts",
+		"img":"",
+		"color":"#00C000"
+	},
+	"ECO":{
+		"code":"ECO",
+		"nom":"Ecologiste",
+		"img":"",
+		"color":"#77FF77"
+	},
+	"REG":{
+		"code":"REG",
+		"nom":"Régionaliste",
+		"img":"",
+		"color":"#FFCC33"
+	},
+	"AUT":{
+		"code":"AUT",
+		"nom":"Autres",
+		"img":"",
+		"color":""
+	},
+	"MDM":{
+		"code":"MDM",
+		"nom":"MODEM",
+		"img":"",
+		"color":"#FF9900"
+	},
+	"UMP":{
+		"code":"UMP",
+		"nom":"Union pour un Mouvement Populaire",
+		"img":"",
+		"color":"#0066CC"
+	},
+	"LR":{
+		"code":"LR",
+		"nom":"Les Républicains",
+		"img":"",
+		"color":"#0066CC"
+	},
+	"MAJ":{
+		"code":"MAJ",
+		"nom":"Majorité présidentielle",
+		"img":"",
+		"color":"#0000C8"
+	},
+	"DVD":{
+		"code":"DVD",
+		"nom":"Divers droite",
+		"img":"",
+		"color":"#ADC1FD"
+	},
+	"FN":{
+		"code":"FN",
+		"nom":"Front National",
+		"img":"",
+		"color":"#C0C0C0"
+	},
+	"EXD":{
+		"code":"EXD",
+		"nom":"Extrême droite",
+		"img":"",
+		"color":"#404040"
+	},
+	"FI":{
+		"code":"FI",
+		"nom":"France Insoumise",
+		"img":"",
+		"color":"#DD0000"
+	},
+	"REM":{
+		"code":"REM",
+		"nom":"République En Marche",
+		"img":"",
+		"color":"#FFEB00"
+	},
+	"UDI":{
+		"code":"UDI",
+		"nom":"Union des Démocrates et des Indépendants",
+		"img":"",
+		"color":"#00FFFF"
+	},
+	"DLF":{
+		"code":"DLF",
+		"nom":"Debout La France",
+		"img":"",
+		"color":"#8040C0"
+	},
+	"DIV":{
+		"code":"DIV",
+		"nom":"Divers",
+		"img":"",
+		"color":"#F0F0F0"
+	}
+}
